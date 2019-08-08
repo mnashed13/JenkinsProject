@@ -12,7 +12,9 @@ public class NewTest {
 	@Test
 		public void NewTestDemo() {
 		
-		System.setProperty("webdriver.chrome.driver","C:\\New folder\\Selenium Web Driver\\chromedriver_win32\\chromedriver.exe");
+//		System.setProperty("webdriver.chrome.driver","C:\\New folder\\Selenium Web Driver\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\\New folder\\chromedriver");
+
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.amazon.com.au/");
 		driver.manage().window().maximize();
