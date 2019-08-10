@@ -1,0 +1,41 @@
+Create  Test Suites to test the e-Commerce Web Application at  https://demostore.x-cart.com/
+
+The creation of test jobs would use the tools like Selenium WebDriver, TestNG, Maven and Jenkins.
+
+The test cases should be categorized differently and should get executed as apart of different testng xml files
+
+Further schedule the execution of seperate testng xml file with different periodicity.
+
+Understand the demo cart as a product and plan for following possible test cases.
+
+The UI Test Cases
+
+	Homepage with Login Page -  
+	Search Results Page - 
+	Product Details Page -  
+	Order Confirmation Page - 
+	
+Cart Functioning Test Cases
+
+	Add one item to the cart - 
+	Increase the quantity of the item from the cart - 
+	Add multiple items of different types 
+	Remove some items from the cart
+	Remove all items from the cart 
+	Add item(s) to the cart, close the browser and reopen the same site
+
+Create Account and Login Test Cases
+
+	Purchase an item as a guest - 
+	Purchase an item with an existing account and with a newly created account. - 
+	Create an account and log in before purchase - 
+	Login session – when you log in check that you stay logged in as you browse product - 
+
+Post-Purchase Test Cases
+
+	Cancel the order or change the quantity of the order.
+	Review your recent order and history of purchased items
+	Changes to the account such as billing address, shipping address, password, profile information such as name, email address 
+
+
+	
