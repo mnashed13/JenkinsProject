@@ -9,7 +9,7 @@ Further schedule the execution of seperate testng xml file with different period
 Understand the demo cart as a product and plan for following possible test cases.
 
 The UI Test Cases
-
+ 
 	Homepage with Login Page -  
 	Search Results Page - 
 	Product Details Page -  
@@ -19,10 +19,10 @@ Cart Functioning Test Cases
 
 	Add one item to the cart - 
 	Increase the quantity of the item from the cart - 
-	Add multiple items of different types 
-	Remove some items from the cart
-	Remove all items from the cart 
-	Add item(s) to the cart, close the browser and reopen the same site
+	Add items of different types    2 - 
+	Remove some items from the cart 2-
+	Remove all items from the cart3 -
+	Add item(s) to the cart, close the browser and reopen the same site 3
 
 Create Account and Login Test Cases
 
@@ -33,9 +33,9 @@ Create Account and Login Test Cases
 
 Post-Purchase Test Cases
 
-	Cancel the order or change the quantity of the order.
-	Review your recent order and history of purchased items
-	Changes to the account such as billing address, shipping address, password, profile information such as name, email address 
+	Cancel the order or change the quantity of the order. *
+	Review your recent order and history of purchased items -       
+	Changes to the account such as billing address, shipping address, password, profile information such as name, email address 4\
 
 
 	
